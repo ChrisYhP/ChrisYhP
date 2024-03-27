@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ChrisYhP
 - 👀 I’m interested in Javascript、Python...
-- 🌱 I’m currently learning 唱跳rap篮球
 - 📫 How to reach me yanhoupu@gmail.com
 
 <!---
